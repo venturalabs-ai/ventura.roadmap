@@ -1,52 +1,43 @@
 # ventura.roadmap
 
-![MIT](https://img.shields.io/github/license/chamseddinehiddoud/ventura.roadmap)
-![stars](https://img.shields.io/github/stars/chamseddinehiddoud/ventura.roadmap)
-![forks](https://img.shields.io/github/forks/chamseddinehiddoud/ventura.roadmap)
+![Status](https://img.shields.io/badge/status-curation%20%2B%20skill-blueviolet)
+![License](https://img.shields.io/github/license/venturalabs-ai/ventura.roadmap)
+![Stars](https://img.shields.io/github/stars/venturalabs-ai/ventura.roadmap)
 
-Versão **Ventura** do clássico *developer-roadmap* — guias de carreira em
-desenvolvimento de software, curados e atualizados, com uma skill de replay
-determinístico para manter o plano vivo sem retrabalho.
+**Roadmaps curados para desenvolvimento, dados, DevOps e carreira técnica com execução determinística.**
 
-> **Curadoria original** — este repositório organiza trilhas de carreira de
-> forma própria; os mapas detalhados e dinâmicos vivem no projeto original
-> (developer-roadmap).
+## Classificação
 
-## O que é
+**Curation / Skill Repository.** Este projeto não é afiliado ao `developer-roadmap` e não substitui seus mapas oficiais/interativos.
 
-Roadmaps práticos por área de atuação, em fases progressivas, com o essencial
-para cada etapa e a skill `SKILL.md` para transformar o plano de carreira em
-processo determinístico (explore uma vez → compile → replique → regenere).
+## Referência upstream
 
-## Áreas curadas
+Inspirado por projetos públicos de roadmap e documentação de carreira, com estrutura e método próprios.
 
-| Área | Foco | Caminho típico |
-|---|---|---|
-| **Frontend** | interface, experiência, performance | HTML/CSS → JS/TS → framework → testes → build |
-| **Backend** | dados, API, segurança | linguagem → banco → API → mensageria → deploy |
-| **Full-stack** | ponta a ponta | frontend + backend + infra básica |
-| **DevOps** | infraestrutura e entrega | Linux → CI/CD → cloud → containers → IaC |
-| **Dados** | engenharia e análise | SQL → Python → pipelines → modelagem → visualização |
-| **Mobile** | apps nativos e híbridos | lógica → UI → plataforma → store → testes |
+## Trilhas
 
-## Fases do método
+- frontend;
+- backend;
+- full-stack;
+- DevOps;
+- dados;
+- mobile;
+- fundamentos de carreira.
 
-| Fase | O que fazer | Critério de avanço |
-|---|---|---|
-| **1. Fundação** | conceitos da área + ferramenta principal | projeto simples concluído |
-| **2. Domínio** | tópicos avançados + boas práticas | projeto médio concluído |
-| **3. Especialização** | tema de nicho + portfólio | 3 projetos documentados |
-| **4. Mercado** | entrevistas, currículo, marca | 1 vaga/oportunidade real |
+## Método Ventura
 
-## Como usar (com a skill)
+`EXPLORE → COMPILE → REPLAY → REGENERATE`
 
-```text
-1. Modo EXPLORE  — escolha a área e avalie seu nível atual (uma vez)
-2. Modo COMPILE  — registre o roadmap em plano.md (fases + próximos passos)
-3. Modo REPLAY   — "próximo passo" do dia, sem redecidir a trilha
-4. Modo REGENERATE — área/mercado mudou → regenere o plano
-```
+Cada roadmap é convertido em próximos passos concretos, projetos e critérios de avanço para evitar estudo sem entrega.
+
+## Critério de progresso
+
+- fundamentos demonstrados;
+- projeto simples concluído;
+- projeto intermediário documentado;
+- especialização com portfólio;
+- preparação para oportunidade real.
 
 ## Licença
 
-MIT License — Copyright (c) 2026 Wemerson Mota de Oliveira.
+Consulte [LICENSE](LICENSE). Referências externas mantêm suas próprias licenças e marcas.
