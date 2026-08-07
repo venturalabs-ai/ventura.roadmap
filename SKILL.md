@@ -1,5 +1,9 @@
 # Skill: ventura.roadmap — LOOP Skill Engine / Deterministic Replay
 
+![MIT](https://img.shields.io/github/license/chamseddinehiddoud/ventura.roadmap)
+![stars](https://img.shields.io/github/stars/chamseddinehiddoud/ventura.roadmap)
+![forks](https://img.shields.io/github/forks/chamseddinehiddoud/ventura.roadmap)
+
 Skill de planejamento e execução de carreira técnica com **execução
 determinística**: explore uma vez, compile o roadmap, replique com ~zero
 tokens, regenere quando o mercado (ou o objetivo) mudar.
