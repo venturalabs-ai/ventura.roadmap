@@ -1,5 +1,9 @@
 # ventura.roadmap
 
+![MIT](https://img.shields.io/github/license/chamseddinehiddoud/ventura.roadmap)
+![stars](https://img.shields.io/github/stars/chamseddinehiddoud/ventura.roadmap)
+![forks](https://img.shields.io/github/forks/chamseddinehiddoud/ventura.roadmap)
+
 Versão **Ventura** do clássico *developer-roadmap* — guias de carreira em
 desenvolvimento de software, curados e atualizados, com uma skill de replay
 determinístico para manter o plano vivo sem retrabalho.
