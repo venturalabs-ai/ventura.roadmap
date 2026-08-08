@@ -1,0 +1,17 @@
+name: Curation Health
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: "43 5 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  curation-health:
+    uses: venturalabs-ai/ventura.build/.github/workflows/curation-health.yml@b150329e93d1d8ba212665637c3684383a7d56fc
