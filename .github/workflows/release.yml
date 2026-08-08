@@ -1,0 +1,12 @@
+name: Release
+
+on:
+  push:
+    tags: ["v*.*.*"]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    uses: venturalabs-ai/ventura.build/.github/workflows/release-standard.yml@b150329e93d1d8ba212665637c3684383a7d56fc
