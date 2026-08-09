@@ -10,9 +10,9 @@
 
 **Curation / Skill Repository.** Este projeto não é afiliado ao `developer-roadmap`/roadmap.sh e não substitui seus mapas oficiais ou interativos.
 
-## Proveniência
+## Referência upstream e proveniência
 
-Este repositório organiza trilhas próprias a partir de conhecimento geral de engenharia de software, documentação pública e referências de mercado. O projeto `developer-roadmap`/roadmap.sh é citado apenas como referência externa conhecida no domínio. Conteúdo, imagens, mapas e arquivos daquele projeto não devem ser redistribuídos aqui sem verificação e cumprimento expresso dos respectivos termos.
+Este repositório organiza trilhas próprias a partir de conhecimento geral de engenharia de software, documentação pública e referências de mercado. O projeto `developer-roadmap`/roadmap.sh é citado apenas como referência upstream externa conhecida no domínio. Conteúdo, imagens, mapas e arquivos daquele projeto não devem ser redistribuídos aqui sem verificação e cumprimento expresso dos respectivos termos.
 
 Consulte [PROVENANCE.md](PROVENANCE.md) antes de reutilizar ou adicionar material de terceiros.
 
